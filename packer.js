@@ -5,7 +5,7 @@ const start = Date.now();
 
 const sourcedir = "./source";
 const outputdirs = [ "./output" ];
-const outputName = `fx-icons-${Date.now()}`;
+const outputName = `fx-icons`;
 const nameHeader = "fx-icon-";
 const header = (await fsPromises.readFile("./header.css", "utf-8")).split("\n").map((x) => x.replace(/[\r\n]/g, ""));
 const root = [ ":root {" ];
