@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="12.81631"
+     inkscape:cx="12.794213"
      inkscape:cy="15.313281"
      inkscape:window-width="1920"
      inkscape:window-height="953"
@@ -57,11 +57,11 @@
      transform="translate(-0.26458354,-0.26458378)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 8.4666668,4.4979171 H 0.79375042"
+       d="M 8.4666668,4.2333905 H 0.79375042"
        id="path1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 3.8137606,7.6729173 0.63876092,4.4979173 3.8137608,1.3229171"
+       d="M 3.8137606,7.4083907 0.63876092,4.2333907 3.8137608,1.0583905"
        id="path2" />
   </g>
 </svg>
