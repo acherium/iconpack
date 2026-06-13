@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="32"
-   height="32"
-   viewBox="0 0 8.4666664 8.466667"
+   width="30"
+   height="30"
+   viewBox="0 0 7.9374997 7.9375003"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -44,7 +44,7 @@
        empopacity="0.30196078"
        color="#000000"
        opacity="0.14901961"
-       empspacing="8"
+       empspacing="5"
        enabled="true"
        visible="true" />
   </sodipodi:namedview>
@@ -63,8 +63,7 @@
        r="3.175" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square"
-       d="M 6.0854168,6.085417 8.2020834,8.202084"
-       id="path2"
-       sodipodi:nodetypes="cc" />
+       d="m 6.0854168,6.085417 1.5875,1.5875003"
+       id="path2" />
   </g>
 </svg>

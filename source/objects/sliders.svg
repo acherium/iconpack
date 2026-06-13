@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="32"
-   height="32"
-   viewBox="0 0 8.4666664 8.466667"
+   width="30"
+   height="30"
+   viewBox="0 0 7.9374997 7.9375003"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -44,7 +44,7 @@
        empopacity="0.30196078"
        color="#000000"
        opacity="0.14901961"
-       empspacing="8"
+       empspacing="5"
        enabled="true"
        visible="true" />
   </sodipodi:namedview>
@@ -57,7 +57,7 @@
      transform="translate(-0.26458354,-0.26458378)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M 6.3500004,3.439584 V 5.0270839"
+       d="M 5.8208335,3.4395839 V 5.0270838"
        id="path14" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -69,7 +69,7 @@
        id="path16" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 0.52916686,4.2333339 5.82083324,0"
+       d="m 0.52916686,4.2333339 5.29166664,0"
        id="path17"
        sodipodi:nodetypes="cc" />
     <path
@@ -82,17 +82,17 @@
        id="path19" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 3.7041668,2.1166672 4.7624997,10e-8"
+       d="m 3.7041668,2.1166672 4.2333333,0"
        id="path20"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 7.4083334,4.2333339 1.0583331,0"
+       d="M 6.8791669,4.2333339 H 7.9375"
        id="path21"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 3.7041668,6.3500006 4.7624997,-1e-7"
+       d="m 3.7041668,6.3500006 4.2333333,0"
        id="path22"
        sodipodi:nodetypes="cc" />
   </g>

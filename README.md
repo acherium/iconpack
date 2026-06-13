@@ -19,7 +19,6 @@
 ## 아이콘 규격
 
 - 아이콘은 SVG 형식의 이미지일 것.
-- 16×16px 또는 32×32px 권장.
+- 15×15px 또는 30×30px 권장.
 - 아이콘은 `<i class="iconname"></i>` 형태로 사용 가능.
-- 아이콘은 `mask-image` 형태로 적용되며, 아이콘의 색상은 `background-color`에 `var(--icon)`으로 적용됨. CSS 변수 --icon이 지정되어 있지 않을 경우 표시되지 않을 수 있음.
-- 크기를 변경하거나 색상으로 사용할 변수명을 바꾸려면 `header.css`를 수정할 것.
+- 기본 크기나 색상을 변경하려면 `header.css`의 `--icon-color`, `--icon-size` 변수를 변경할 것.
